@@ -1,0 +1,19 @@
+@charset 'utf-8';
+#nav ul .bg{
+	left: 1000px;
+}
+#main-copy .aside-right .middle #contact{
+	width: 500px;
+	margin: 0 auto;
+}
+#main-copy .aside-right .middle #contact li{
+	line-height: 30px;
+	font-size: 16px;
+}
+#main-copy .aside-right .middle #map{
+	width: 600px;
+	height: 360px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+
+}

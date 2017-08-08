@@ -1,0 +1,25 @@
+@charset "utf-8";
+#nav ul .bg{
+	left: 600px;
+}
+#main-copy .aside-right .middle{
+	padding: 30px 0;
+	line-height: 30px;
+	font-size: 16px;
+}
+#main-copy .aside-right .middle div{
+	margin-bottom: 20px;
+	border: 1px dotted #fofofo;
+}
+#main-copy .aside-right .middle h3{
+	font-size: 18px;
+	font-weight: bolder;
+}
+#main-copy .aside-right .middle ol{
+	margin-bottom: 20px; 
+}
+#main-copy .aside-right .middle li{
+	list-style: decimal inside;
+	font-size: 16px;
+	line-height: 22px;
+}

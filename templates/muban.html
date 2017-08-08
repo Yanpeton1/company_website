@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <title>这是产品详情页</title>
+</head>
+<body>
+    弹出框框说明获取详情数据成功
+</body>
+</html>
+
+<script type="text/javascript">
+    window.onload=function(){
+        alert(window.location.href);
+        var str = window.location.href
+        var str_list = str.split("/")
+        var p_id = str_list[str_list.length-1]
+        alert(p_id)
+        $.ajax({
+            url:"http://106.15.194.162:8000/api/v1/product/?format=json",
+            type:"GET",		    
+            success:function(data){
+                alert(data);
+            }
+        });
+    }
+
+</script>

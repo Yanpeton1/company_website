@@ -1,0 +1,148 @@
+
+{
+	"meta": {
+		"limit": 20,
+		"next": null,
+		"offset": 0,
+		"previous": null,
+		"total_count": 5
+	},
+	"objects": [{
+		"category": "吊炸天系列",
+		"created_date": "2017-07-14T23:09:30",
+		"detail": "叶公好龙说过话苏打绿化工阿玉 啊挨饿人家爱卡v模式多个时光流逝公司 安静，公司本来看不见真不愧是v上京赶考说过话。",
+		"id": 1,
+		"image": "/upload/product_images/django.jpg",
+		"introduction": "苏打绿化工时代光华连上了还是个时间的规划傻瓜受到，\r\n十多个；s色鬼的烧烤火锅。",
+		"name": "Product A",
+		"resource_uri": "/api/v1/product/1/",
+		"updated_date": "2017-07-15T08:52:00.680283"
+	}, {
+		"category": "轰轰轰系列",
+		"created_date": "2017-07-15T08:49:33",
+		"detail": "卡死了个AKG；了啥；嘎哈啊看帅哥；了啊；嘎哈； 啊；个",
+		"id": 2,
+		"image": "/upload/product_images/d723b88624f04f0a7f77338112ca2e75.jpg",
+		"introduction": "阿会发生奥斯卡韩国；啊",
+		"name": "TTT",
+		"resource_uri": "/api/v1/product/2/",
+		"updated_date": "2017-07-15T08:49:34.851729"
+	}, {
+		"category": "不",
+		"created_date": null,
+		"detail": "谁说的",
+		"id": 3,
+		"image": "/upload/product_images/062.jpg",
+		"introduction": "不不不不不alalalal",
+		"name": "咋怒补",
+		"resource_uri": "/api/v1/product/3/",
+		"updated_date": "2017-07-22T15:07:06.182526"
+	}, {
+		"category": "测试版本",
+		"created_date": null,
+		"detail": "先生先生先生",
+		"id": 4,
+		"image": "/upload/product_images/020.jpg",
+		"introduction": "测试版本1111111",
+		"name": "测试1",
+		"resource_uri": "/api/v1/product/4/",
+		"updated_date": "2017-07-22T15:07:56.395782"
+	}, {
+		"category": "测试版本",
+		"created_date": null,
+		"detail": "彻底彻底才能定",
+		"id": 5,
+		"image": "/upload/product_images/099.jpg",
+		"introduction": "测试 开男的处女地处女地",
+		"name": "测试2",
+		"resource_uri": "/api/v1/product/5/",
+		"updated_date": "2017-07-22T15:08:27.902753"
+	}],
+	"job":[
+		{
+			"position":"afaddd",
+			"requirement":[
+				"1.wdfwfw",
+				"2.fdfsgsf",
+				"3.sdfsfd"
+			],
+			"ability":[
+				"1.2r23r23",
+				"2.ddffsddfs", 
+				"3.sdfsfsfsd"
+			]
+		},
+		{
+			"position":"afaddd",
+			"requirement":[
+				"1.wdfwfw",
+				"2.fdfsgsf",
+				"3.sdfsfd"
+			],
+			"ability":[
+				"1.2r23r23",
+				"2.ddffsddfs",
+				"3.sdfsfsfsd"
+			]
+		}
+	],
+	"welfare":[
+		"1.ddded",
+		"2.fsdsfw",
+		"3.wefwfwf"
+	],
+}
+
+
+
+{
+	"meta": {
+		"limit": 20,
+		"next": null,
+		"offset": 0,
+		"previous": null,
+		"total_count": 1
+	},
+	"objects": [{
+		"created_date": "2017-07-15T02:48:03.329901",
+		"duty": "逼王，沙龙会反馈；拉三个；是奥斯卡韩国是；",
+		"id": 1,
+		"name": "绝世装逼高手",
+		"requirements": "安生；护肤品奥斯卡复活了撒发货按时发蜡黄飞鸿",
+		"resource_uri": "/api/v1/position/1/",
+		"updated_date": "2017-07-15T02:48:03.329933"
+	}],
+	"objects":[
+		{
+			"name":"afaddd",
+			"duty":[
+				"1.wdfwfw",
+				"2.fdfsgsf",
+				"3.sdfsfd"
+			],
+			"requirements":[
+				"1.2r23r23",
+				"2.ddffsddfs", 
+				"3.sdfsfsfsd"
+			]
+		},
+		{
+			"name":"afaddd",
+			"duty":[
+				"1.wdfwfw",
+				"2.fdfsgsf",
+				"3.sdfsfd"
+			],
+			"requirements":[
+				"1.2r23r23",
+				"2.ddffsddfs",
+				"3.sdfsfsfsd"
+			]
+		}
+	],
+	"welfare":[
+		"1.ddded",
+		"2.fsdsfw",
+		"3.wefwfwf"
+	],
+}

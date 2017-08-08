@@ -1,0 +1,39 @@
+@charset 'utf-8';
+#nav ul .bg{
+	left: 200px;
+}
+#main-copy .aside-right .middle{
+	padding: 20px 100px;
+}
+#main-copy .aside-right .middle .detail-top:after{
+	clear: both;
+	content: '';
+	visibility: hidden;
+	display: block;
+}
+#main-copy .aside-right .middle .detail-top img{
+	width: 300px;
+	height: 300px;
+	border: 1px solid #f0f0f0;
+}
+#main-copy .aside-right .middle .detail-top .word{
+	width: 300px;
+	margin-left: 40px;
+}
+#main-copy .aside-right .middle .detail-top .word p{
+	font-size: 18px;
+	line-height: 28px;
+}
+#main-copy .aside-right .middle .detail-bottom{
+	font-size: 18px;
+	line-height: 28px;
+	padding-top: 60px;
+}
+#main-copy .aside-right .middle .detail-bottom h3{
+	font-weight: bolder;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+#main-copy .aside-right .middle .detail-bottom li{
+	list-style: decimal inside;
+}

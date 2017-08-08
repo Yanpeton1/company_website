@@ -1,0 +1,46 @@
+@charset 'utf-8';
+#nav ul .bg{
+	left: 200px;
+}
+#main-copy .middle #about{
+	padding: 10px 0;
+	font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;
+}
+#main-copy .middle #about h3{
+	width: 200px;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+	line-height: 40px;
+}
+#main-copy .middle #about p{
+	line-height: 30px;
+	padding: 10px 5px;
+	font-size: 16px;
+	text-indent: 32px;
+}
+#main-copy .middle #about p .name{
+	font-size: 20px;
+}
+#main-copy .middle #about .watchword{
+	text-align: center;
+}
+#main-copy .middle #about .watchword h3,#main-copy .middle #about .watchword strong{
+	color: #882081;
+}
+#main-copy .middle #about .watchword p{
+	width: 200px;
+	margin: 0 auto;
+	padding: 0;
+	text-indent: 0;
+}
+#main-copy .middle #about .watchword p span{
+	margin: 0 5px;
+}
+#main-copy .middle #qualifications p{
+	text-indent: 0;
+	text-align: center;
+}
+#main-copy .middle #qualifications p img{
+	margin: 0 5px;
+}
